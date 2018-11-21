@@ -200,8 +200,8 @@ class Particle
 `Fsiz`是控制一系列圆的统一大小的参数，控制不同帧中光圈的大小，达到一闪一闪的效果。
 `Insiz`是每loop中各同心圆的半径。
 ### 手绘作品
-![](mdimgs/0805.gif)
-![](mdimgs/0806.gif)
+![](mdimgs/0805.jpg)
+![](mdimgs/0806.jpg)
 
 我应该用IPad画的这个水彩画画好丑qaq
 
