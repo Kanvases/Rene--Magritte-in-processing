@@ -35,7 +35,7 @@ void setup()
 void draw()
 {
   float Fsiz=sin(lop)+5;
-  trX+=1;
+  //trX+=5;
   if(trX>width){
     trX=-100;
   }
@@ -57,7 +57,7 @@ void draw()
      Insiz+=2;
   }
   opt=10;
-  lop +=0.2;
+  lop +=0.5;
   if(lop>2*3.141){
     lop=0;
   }
